@@ -1,2 +1,2 @@
 # GA-learning
-Repo for learning purposes
+Repo for learning and project submissions
